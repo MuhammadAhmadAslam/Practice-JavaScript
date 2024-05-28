@@ -118,3 +118,4 @@ console.log(format1);
 let format2 = `${now.getDate()}-${now.getMonth()+1}-${now.getFullYear()}`
 console.log(format2);
 
+
